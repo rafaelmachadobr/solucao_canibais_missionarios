@@ -4,6 +4,7 @@ disable=
       C0116, # missing-function-docstring
       E0015, # unrecognized-option
       C0114, # missing-module-docstring
+      C0115, # missing-class-docstring
       W0703, # Catching too general exception Exception
       C0209, # Consider-using-f-string
       C0321, # Multiple-statements
